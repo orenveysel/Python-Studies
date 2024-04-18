@@ -1,0 +1,5 @@
+ahmet yilmaz: 100,100,90
+mehmet  yilmaz: 90,70,80
+deniz  efe: 60,80,90
+Cinar Turan: 100,60,70
+CINAR TURAN: 90,70,60
